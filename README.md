@@ -47,6 +47,11 @@ The Convolutional Neural Network (CNN) employed in this project is designed to e
 
   Visualizations and results obtained from the analysis.
 
+- **accuracy**
+
+  ![image](https://github.com/MadanBabu1314114/Malaria-Detection-Using-Deep-learning/assets/123216438/79cd2f4f-40ff-4a28-a9dd-c9c21f47684f)
+ 
+
   
   
 
